@@ -10399,11 +10399,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\colemcguire\\Documents\\Learning\\ASP.NET Core MVC\\Practice\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+      "projectUniqueName": "C:\\Users\\colemcguire\\Documents\\Learning\\ASP.NET Core MVC\\Practice\\BulkyBookWebGitHub\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
       "projectName": "BulkyBookWeb",
-      "projectPath": "C:\\Users\\colemcguire\\Documents\\Learning\\ASP.NET Core MVC\\Practice\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+      "projectPath": "C:\\Users\\colemcguire\\Documents\\Learning\\ASP.NET Core MVC\\Practice\\BulkyBookWebGitHub\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
       "packagesPath": "C:\\Users\\colemcguire\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\colemcguire\\Documents\\Learning\\ASP.NET Core MVC\\Practice\\BulkyBook\\BulkyBookWeb\\obj\\",
+      "outputPath": "C:\\Users\\colemcguire\\Documents\\Learning\\ASP.NET Core MVC\\Practice\\BulkyBookWebGitHub\\BulkyBook\\BulkyBookWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\colemcguire\\AppData\\Roaming\\NuGet\\NuGet.Config",
